@@ -1,0 +1,5 @@
+nltk
+gensim
+tensorflow
+seaborn
+scikit-learn
